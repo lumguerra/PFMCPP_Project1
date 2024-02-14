@@ -55,86 +55,86 @@ arm.rotateCounterClockwise();           // 4) demonstrates camelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:        dog
+//  action 1:    the dog barks
+dog.bark();
+//  action 2:    the dog sleeps
+dog.sleep();
+//  action 3:    eats meat
+dog.eatMeat();
 //  2)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:        tree
+//  action 1:    the tree produces oxygen
+tree.produceOxygen();
+//  action 2:    the tree    hosts birds
+tree.hostBirds();
+//  action 3:    the tree    produces fruits
+tree.produceFruit();
 //  3)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:        microphone
+//  action 1:    the microphone capture sounds
+microphone.captureSound();
+//  action 2:    the microphone enhances voice tone
+microphone.enhanceVoiceTone();
+//  action 3:    the microfone transfer signal
+microphone.transferSignal();
 //  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:        computer
+//  action 1:    the computer calculates
+computer.calculate();
+//  action 2:    the computer stores data
+computer.storeData();
+//  action 3:    the computer sends data
+computer.sendData();
 //  5)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:        eye
+//  action 1:    the eye sees
+eye.see():
+//  action 2:    the eye blinks
+eye.blink();
+//  action 3:    the eye adjusts
+eye.ajust();
 //  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
-//  7)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:        guitar
+//  action 1:    the guitar plays
+guitar.play();
+//  action 2:    the guitar distorces sound
+guitar.distorceSound();
+//  action 3:    the guitar plays power chords
+guitar.playPowerChords();
+//  7)        
+//  Noun:        pencil
+//  action 1:    the pencil writes
+pencil.write();
+//  action 2:    the pencil draws
+pencil.draw();    
+//  action 3:    the pencil colors
+pencil.color();
 
 //  8)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:        gun
+//  action 1:    the gun fires
+gun.fire();
+//  action 2:    the gun intimidates
+gun.intimidate();
+//  action 3:    the gun kill
+gun.kill();
 //  9)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:        audioInterface
+//  action 1:    the audioInterface plays
+audioInterface.play();
+//  action 2:    the audioInterface records
+audioInterface.record();
+//  action 3:    the audioInterface sets samplerate
+auidoInterface.setSamplerate();
 //  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
-
+//  Noun:        bicycle
+//  action 1:    the bicycle rides
+bicycle.ride();
+//  action 2:    the bicycle pedals
+bicycle.pedal();
+//  action 3:    the bicycle brakes
+bicycle.brake();
 
 #endif
 
